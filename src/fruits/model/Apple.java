@@ -1,8 +1,8 @@
-package fruity.factory;
+package fruits.model;
 
 public class Apple extends Fruit {
 
-    Apple(float weight) {
+    public Apple(float weight) {
         super(weight);
         this.setTaste(Taste.SWEET);
     }

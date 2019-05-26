@@ -1,4 +1,4 @@
-package fruity.factory;
+package fruits.model;
 
 public abstract class Fruit implements Energetic {
 
@@ -6,7 +6,7 @@ public abstract class Fruit implements Energetic {
 
     private Taste taste;
 
-    Fruit(float weight) {
+    public Fruit(float weight) {
         this.weight = weight;
     }
 

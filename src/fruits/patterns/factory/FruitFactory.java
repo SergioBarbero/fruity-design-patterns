@@ -1,4 +1,7 @@
-package fruity.factory;
+package fruits.patterns.factory;
+
+import fruits.model.Apple;
+import fruits.model.Fruit;
 
 public class FruitFactory {
 

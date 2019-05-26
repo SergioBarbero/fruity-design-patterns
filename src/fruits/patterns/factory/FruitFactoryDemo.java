@@ -1,4 +1,6 @@
-package fruity.factory;
+package fruits.patterns.factory;
+
+import fruits.model.Fruit;
 
 public class FruitFactoryDemo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package fruity.factory;
+package fruits.model;
 
 public interface Energetic {
 
